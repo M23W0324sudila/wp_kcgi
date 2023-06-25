@@ -1,0 +1,201 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Profile Page</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="My Biography.">
+    <meta name="keywords" content="SriLanka, management, ">
+    <meta name="author" content="Kandamulla Waduge Sudila Sithuruvan Dayarathne">
+</head>
+
+<body> <center> 
+    <div id="container">
+        <table border="5px">
+            <tr>
+                <td width="270px" style = "background-color:#D2B48C  ">
+                    <div class="left"> <p>
+                        <div class="profile-pic">
+						<center>
+                            <img src="sudila.jpg" width="250px" height="250px" />
+							</center>
+                        </div>
+                        <h3>Contacts:</h3>
+                        <ul>
+                            <li><strong>Email:</strong> <i><a href="mailto:sudilax99@gmail.com"
+style="text-decoration: none;color:black">sudilax99@gmail.com</a> </i></li>
+                            <li><b>Contact:</b> +81 90 1209 7300</li>
+                            <li><strong>Address: </strong>
+                                <address style="display: inline;"> Leopalace ALTA III,Minami Ward, Kyoto, Japan</address>
+                         </ul>
+                     
+                        <hr>
+                        <h3>Skill Highlights:</h3>
+                        <ul>
+                            <li>Project management</li>
+                            <li>Strong decision maker</li>
+                            <li>Complex problem solver</li>
+                            <li>Creative design</li>
+                            <li>Innovative</li>
+                            <li>Service-focused</li>
+                         </ul>
+                          
+                        <hr>
+                        <h3>Technical Skills:</h3>
+                        <ul>
+                            <li>HTML: <progress max="100" value="65"> 65% </progress></li>
+                            <li>MS Office: <progress max="100" value="80"> 80% </progress></li>
+                            <li>Jira Confluence: <progress max="100" value="70"> 70%</progress></li>
+                            <li>Internet and Email: <progress max="100" value="80"> 80% </progress></li>
+                       </ul>
+                        
+                        <hr>
+                        <h3>Languages:</h3>
+                        <ul>
+                            <li>Sinhala: <progress max="100" value="95"> 95% </progress></li>
+                            <li>English: <progress max="100" value="70"> 70% </progress></li>
+                            <li>Japanese: <progress max="100" value="10"> 10% </progress></li>
+                        </ul>
+                            
+                        <hr>
+                        <h3>Personal Details:</h3>
+                        <ul>
+                            <li>Date of Birth : 1992.12.13</li>
+                            <li>Gender : Female</li>
+                            <li>Nationality : Sri Lankan</li>
+                            <li>Marital Status : Married</li>
+                        </ul>  
+                            
+			<hr>
+                        <h3>Hobbies:</h3>
+                        <ul>
+                            <li>Watching TV Series</li>
+                        
+						<iframe width="200" height="180" src="https://www.youtube.com/embed/Ocgz-AVsHBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <li>Reading Books</li>
+                            <li>Listening Music</li>
+							<audio controls>
+							<source src="audio.mp3" width="15px" height="5px"> </audio>
+                        </ul>
+                        
+                        <hr>
+                        <h3>Current Address:</h3>
+                        <ul>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3266.3156623967366!2d135.79166742721029!3d35.04884631748493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600109b65ce89305%3A0xa6311c4602f78f31!2z44CSNjA2LTgxMzIgS3lvdG8sIFNha3lvIFdhcmQsIEljaGlqxY1qaSBCYWJhY2jFjSwgMzIg44OR44OG44Kj44Kq5YyX55m95bed!5e0!3m2!1sen!2sjp!4v1672141589886!5m2!1sen!2sjp" width="200" height="200" style="border:1.5;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </ul>
+                        
+                        <hr>
+                        <h3>References:</h3>
+                        <ul>
+                            <strong>H.M.S.C.D. Herath</strong> <br>
+                            Assistant Engineer <br>
+                            Mobitel Regional Engineering Office Kurunegala <br>
+                            <i>Email:</i> <a href="mailto:herath@mobitel.lk"
+style="text-decoration: none;color:black">herath@mobitel.lk</a> <br>
+                            <i>Contact No:</i> +94 714151202
+                        </ul> 
+                        <br>
+                        
+                        <ul>
+                            <b>B.H.N.V.L Chandrakantha</b><br>
+                            Internal Audit Office<br> 
+                            Ceylon Electricity Board <br>
+                            Colombo-02<br>
+                            <i>Email:</i> <a href="mailto:lahiruv@live.com"
+style="text-decoration: none;color:black">lahiruv@live.com</a> <br>
+                            <i>Contact No:</i> +94 777538873
+                        </ul>
+
+           
+           <td width="700px">
+		   
+                    <div class="right">
+                        <h1> &nbsp; Sudila Sithuruvan </h1>
+                        <p><b> &nbsp; Seeking a profession in reputed organization which will offer responsibility, challenge and team work &nbsp; with creativity and opportunities for wider and better future for me while contributing to the growth &nbsp; of the organization..</p></b>
+
+                        <div class="content">
+                            <h3 style="background-color:#A0522D; font-size:22px;"> &nbsp; Education</h3>
+
+                            <h4> &nbsp; Master's Degree</h4>
+                            <h5> &nbsp; The Kyoto College of Graduate Studies for Informatics / Kyoto, Japan / November, 2022 - Present</h5>
+                            <span> &nbsp; - Master's in Information Technology</span> <br>
+                            <span> &nbsp; - Data Science</span>
+
+                            <br><br><br>
+
+                            <h4> &nbsp; Bacholor's Degree</h4>
+                            <h5> &nbsp; University College Dublin / National School of Business Management / 2016-2017</h5>
+                            <span> &nbsp; - Management</span>
+
+                            <br> <br><br>
+                            
+                            <h4> &nbsp; Diploma</h4>
+                            <h5> &nbsp; National Institute of Business Management / 2013-2015</h5>
+                            <span> &nbsp; - Higher Diploma in Business Management</span> <br>
+                            <span> &nbsp; - Advanced Diploma in Business Management</span>
+                            
+                            <br> <br><br>
+
+                        </div>
+                        
+                        <div class="content">
+                            <h3 style="background-color:#A0522D; font-size:22px;"> &nbsp; Work Expericence</h3>
+
+                            <h4> &nbsp; Associate Business Analyst</h4>
+                            <h5> &nbsp; Orel IT – Kurunegala, from September 2019 to January 2021</h5>
+                            <span> &nbsp; - Elicits, analyzes, specifies, and validates the business needs of Stakeholders </span><br>
+                            <span> &nbsp; - Conducts brainstorms to gather customer requirements via workshops, questionnaires, scenarios </span><br>
+                            <span> &nbsp; - Works with stakeholders and project team to prioritize collected requirements </span><br>
+                            <span> &nbsp; - Conducting performance improvement training for the production teams </span><br>
+                            <span> &nbsp; - Creates process models, specifications, diagrams, and charts to provide direction to Image processors &nbsp;and/or the project team </span><br>
+                            <span> &nbsp; - Manages and tracks the status of requirements throughout the project lifecycle; enforce and redefine as &nbsp;necessary </span><br>
+                            <span> &nbsp; - Communicates changes, enhancements, and modifications of business requirements- verbally or through &nbsp;written documentation — to project managers, sponsors, and other stakeholders so that issues and solutions &nbsp;are understood </span>
+
+                            <br> <br><br>
+
+                            <h4> &nbsp; Assistant Accountant</h4>
+                            <h5> &nbsp; Sara Enterprises Pvt Ltd, from June 2018 to June 2019</h5>
+                            <span> &nbsp; - Completing financial reports on a regular basis and providing information to the finance team </span><br>
+                            <span> &nbsp; - Entering financial information into appropriate software programs Managing company ledgers, processing &nbsp;business expenses and also Coordinating internal and external audits </span><br>
+                            <span> &nbsp; - Recording office expenditures and ensuring these expenses are within the set budget </span><br>
+                            <span> &nbsp; - Completing the year-end analysis, reporting on debtors and creditors and Managing monthly budgeting &nbsp;tasks </span><br>
+                            <span> &nbsp; - Resolving errors in financial reports and correcting faulty reporting Methods </span>
+
+                            <br> <br><br>
+
+                            <h4> &nbsp; Internship</h4>
+                            <h5> &nbsp; Bank of Ceylon – Head Office, Colombo</h5>
+                          
+                        </div>
+
+                        <br>
+                        <br>
+                        
+                         <div class="content">
+                            <h3 style="background-color:#A0522D; font-size:22px;"> &nbsp; Profesional Qualification</h3>
+
+                            <h4> &nbsp; Association of Accounting Technicians Sri Lanka</h4>
+                            <span> &nbsp; - Completed Foundation Level (2010 June) </span> <br>
+                            <span> &nbsp; - Completed Intermediate Level (2011 July) </span> <br>
+                            <span> &nbsp; - Completed Final Level (2012 January) </span>
+
+                            <br><br><br>
+                            <h4> &nbsp; Followed Certificate course in Computer based accounting</h4>
+                            </div>
+                            
+                            <div class="content">
+                            <h3 style="background-color:#A0522D; font-size:22px;"> &nbsp; Further Studies</h3>
+
+                            <span> &nbsp; - Work Smart, Not Hard: Time Management for Personal and Professional Productivity, Certificate course, &nbsp;2020 University of California, Irvine, Coursera </span> <br>
+                            <span> &nbsp; - Introducing Learning Transferring and Lifelong Learning (3L), Certificate course, 2020 University of &nbsp;California, Irvine, Coursera </span>
+                           
+						   
+                           <br><br><br>
+                           </div>
+                           
+                           
+              
+                    <footer><small><strong>M22W7294 (Eranga Iroshani Jayaweera)</strong></small></footer>
+					</center> </body> 
+					</html>
